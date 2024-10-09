@@ -26,6 +26,7 @@ body {
   font-family: 'mooli';
   /* font-family: 'poppins'; */
   background: #fff8f8;
+  overflow-x:hidden;
 }
 
 :root {
